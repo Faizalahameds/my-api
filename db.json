@@ -1,0 +1,2160 @@
+[
+  {
+    "id": 1,
+    "title": "Organic Wheat Flour",
+    "slug": "organic-wheat-flour",
+    "description": "High quality organic wheat flour perfect for baking and cooking.",
+    "category": "Agriculture & Food",
+    "price": 30,
+    "discountPercentage": 10.0,
+    "rating": 4.5,
+    "stock": 120,
+    "tags": ["organic", "wheat", "food"],
+    "brand": "Nature's Best",
+    "sku": "AGF001",
+    "weight": 1.0,
+    "dimensions": {
+      "width": 20.0,
+      "height": 10.0,
+      "depth": 15.0
+    },
+    "warrantyInformation": "No warranty",
+    "shippingInformation": "Ships within 5 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent quality flour!",
+        "date": "2024-05-23T08:56:21.618Z",
+        "reviewerName": "Alice Smith",
+        "reviewerEmail": "alice.smith@example.com"
+      }
+    ],
+    "returnPolicy": "30 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-23T08:56:21.618Z",
+      "updatedAt": "2024-05-23T08:56:21.618Z",
+      "barcode": "1234567890123",
+      "qrCode": "https://example.com/qrcode/AGF001"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=1",
+    "images": [
+      "https://picsum.photos/300/300?random=11",
+      "https://picsum.photos/300/300?random=12",
+      "https://picsum.photos/300/300?random=13"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "Green Farms Supplies",
+      "contactNumber": "+91-9876543210",
+      "email": "contact@greenfarmssupplies.com",
+      "address": "123 Farm Lane, Agro City, IN"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Men's Casual Jacket",
+    "slug": "mens-casual-jacket",
+    "description": "Stylish and comfortable casual jacket for men.",
+    "category": "Apparel & Accessories",
+    "price": 89.99,
+    "discountPercentage": 10.0,
+    "rating": 4.2,
+    "stock": 50,
+    "tags": ["jacket", "men", "fashion"],
+    "brand": "Urban Trend",
+    "sku": "APP002",
+    "weight": 0.8,
+    "dimensions": {
+      "width": 30.0,
+      "height": 40.0,
+      "depth": 5.0
+    },
+    "warrantyInformation": "6 months warranty",
+    "shippingInformation": "Ships within 3 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Good quality material and design.",
+        "date": "2024-05-22T10:30:00.000Z",
+        "reviewerName": "Bob Johnson",
+        "reviewerEmail": "bob.johnson@example.com"
+      }
+    ],
+    "returnPolicy": "15 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-22T10:30:00.000Z",
+      "updatedAt": "2024-05-22T10:30:00.000Z",
+      "barcode": "2234567890123",
+      "qrCode": "https://example.com/qrcode/APP002"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=2",
+    "images": [
+      "https://picsum.photos/300/300?random=21",
+      "https://picsum.photos/300/300?random=22",
+      "https://picsum.photos/300/300?random=23"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "Urban Fashion Supplies",
+      "contactNumber": "+91-9123456781",
+      "email": "sales@urbanfashionsupplies.com",
+      "address": "45 Style Street, Fashion Town, IN"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Handmade Ceramic Vase",
+    "slug": "handmade-ceramic-vase",
+    "description": "Beautifully crafted handmade ceramic vase ideal for home decoration or gifting.",
+    "category": "Arts & Crafts",
+    "price": 45.5,
+    "discountPercentage": 8.0,
+    "rating": 4.7,
+    "stock": 75,
+    "tags": ["ceramic", "vase", "handmade"],
+    "brand": "Crafted Elegance",
+    "sku": "ART003",
+    "weight": 1.2,
+    "dimensions": {
+      "width": 15.0,
+      "height": 35.0,
+      "depth": 15.0
+    },
+    "warrantyInformation": "No warranty",
+    "shippingInformation": "Ships within 7 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "A stunning piece of art!",
+        "date": "2024-05-20T09:15:00.000Z",
+        "reviewerName": "Catherine Lee",
+        "reviewerEmail": "catherine.lee@example.com"
+      }
+    ],
+    "returnPolicy": "14 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-20T09:15:00.000Z",
+      "updatedAt": "2024-05-20T09:15:00.000Z",
+      "barcode": "3234567890123",
+      "qrCode": "https://example.com/qrcode/ART003"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=3",
+    "images": [
+      "https://picsum.photos/300/300?random=31",
+      "https://picsum.photos/300/300?random=32",
+      "https://picsum.photos/300/300?random=33"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "Artisan Crafts Co.",
+      "contactNumber": "+91-9988776655",
+      "email": "info@artisancraftsco.com",
+      "address": "78 Artisan Alley, Craft City, IN"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Universal Motorcycle Cover",
+    "slug": "universal-motorcycle-cover",
+    "description": "Durable and waterproof motorcycle cover suitable for various models.",
+    "category": "Auto Motorcycle Parts & Accessories",
+    "price": 59.99,
+    "discountPercentage": 12.0,
+    "rating": 4.0,
+    "stock": 40,
+    "tags": ["motorcycle", "cover", "auto"],
+    "brand": "RideSafe",
+    "sku": "AUTO004",
+    "weight": 2.5,
+    "dimensions": {
+      "width": 50.0,
+      "height": 30.0,
+      "depth": 5.0
+    },
+    "warrantyInformation": "3 months warranty",
+    "shippingInformation": "Ships within 4 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Fits perfectly and very durable.",
+        "date": "2024-05-18T14:20:00.000Z",
+        "reviewerName": "David King",
+        "reviewerEmail": "david.king@example.com"
+      }
+    ],
+    "returnPolicy": "30 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-18T14:20:00.000Z",
+      "updatedAt": "2024-05-18T14:20:00.000Z",
+      "barcode": "4234567890123",
+      "qrCode": "https://example.com/qrcode/AUTO004"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=4",
+    "images": [
+      "https://picsum.photos/300/300?random=41",
+      "https://picsum.photos/300/300?random=42",
+      "https://picsum.photos/300/300?random=43"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "Motor Cover Solutions",
+      "contactNumber": "+91-9001122334",
+      "email": "support@motorcoversolutions.com",
+      "address": "12 Auto Park, Motor City, IN"
+    }
+  },
+  {
+    "id": 5,
+    "title": "All-Season Car Tire",
+    "slug": "all-season-car-tire",
+    "description": "High performance all-season tire designed for safety and longevity.",
+    "category": "Auto Parts & Accessories",
+    "price": 120.0,
+    "discountPercentage": 7.5,
+    "rating": 4.3,
+    "stock": 80,
+    "tags": ["tire", "car", "auto parts"],
+    "brand": "RoadMaster",
+    "sku": "AUTO005",
+    "weight": 15.0,
+    "dimensions": {
+      "width": 25.0,
+      "height": 25.0,
+      "depth": 10.0
+    },
+    "warrantyInformation": "1 year warranty",
+    "shippingInformation": "Ships within 5 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Great grip and durability.",
+        "date": "2024-05-19T11:45:00.000Z",
+        "reviewerName": "Emily Davis",
+        "reviewerEmail": "emily.davis@example.com"
+      }
+    ],
+    "returnPolicy": "45 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-19T11:45:00.000Z",
+      "updatedAt": "2024-05-19T11:45:00.000Z",
+      "barcode": "5234567890123",
+      "qrCode": "https://example.com/qrcode/AUTO005"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=5",
+    "images": [
+      "https://picsum.photos/300/300?random=51",
+      "https://picsum.photos/300/300?random=52",
+      "https://picsum.photos/300/300?random=53"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "Road Tire Distributors",
+      "contactNumber": "+91-9876501234",
+      "email": "info@roadtiredistributors.com",
+      "address": "89 Highway Road, Auto City, IN"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Hardcase Laptop Bag",
+    "slug": "hardcase-laptop-bag",
+    "description": "Sturdy and spacious laptop bag with multiple compartments.",
+    "category": "Bags Cases & Boxes",
+    "price": 75.0,
+    "discountPercentage": 9.0,
+    "rating": 4.4,
+    "stock": 65,
+    "tags": ["laptop", "bag", "accessory"],
+    "brand": "CarryAll",
+    "sku": "BAG006",
+    "weight": 0.9,
+    "dimensions": {
+      "width": 35.0,
+      "height": 25.0,
+      "depth": 10.0
+    },
+    "warrantyInformation": "6 months warranty",
+    "shippingInformation": "Ships within 2 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Perfect for daily use.",
+        "date": "2024-05-21T12:00:00.000Z",
+        "reviewerName": "Frank Miller",
+        "reviewerEmail": "frank.miller@example.com"
+      }
+    ],
+    "returnPolicy": "30 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-21T12:00:00.000Z",
+      "updatedAt": "2024-05-21T12:00:00.000Z",
+      "barcode": "6234567890123",
+      "qrCode": "https://example.com/qrcode/BAG006"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=6",
+    "images": [
+      "https://picsum.photos/300/300?random=61",
+      "https://picsum.photos/300/300?random=62",
+      "https://picsum.photos/300/300?random=63"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "Tech Bag Suppliers",
+      "contactNumber": "+91-9123456700",
+      "email": "contact@techbagsuppliers.com",
+      "address": "33 Tech Park, Innovation City, IN"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Infant Organic Cotton Onesie",
+    "slug": "infant-organic-cotton-onesie",
+    "description": "Soft and breathable organic cotton onesie for babies and toddlers.",
+    "category": "Baby & Children Products",
+    "price": 19.99,
+    "discountPercentage": 6.0,
+    "rating": 4.6,
+    "stock": 150,
+    "tags": ["baby", "cotton", "onesie"],
+    "brand": "Tiny Tots",
+    "sku": "BAB007",
+    "weight": 0.3,
+    "dimensions": {
+      "width": 15.0,
+      "height": 20.0,
+      "depth": 2.0
+    },
+    "warrantyInformation": "No warranty",
+    "shippingInformation": "Ships within 3 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Very soft and comfortable.",
+        "date": "2024-05-20T08:00:00.000Z",
+        "reviewerName": "Grace Turner",
+        "reviewerEmail": "grace.turner@example.com"
+      }
+    ],
+    "returnPolicy": "14 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-20T08:00:00.000Z",
+      "updatedAt": "2024-05-20T08:00:00.000Z",
+      "barcode": "7234567890123",
+      "qrCode": "https://example.com/qrcode/BAB007"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=7",
+    "images": [
+      "https://picsum.photos/300/300?random=71",
+      "https://picsum.photos/300/300?random=72",
+      "https://picsum.photos/300/300?random=73"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "Baby Organic Imports",
+      "contactNumber": "+91-9988776611",
+      "email": "sales@babyorganicimports.com",
+      "address": "22 Nursery Road, Kidstown, IN"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Industrial Cleaning Solvent",
+    "slug": "industrial-cleaning-solvent",
+    "description": "High-grade industrial solvent ideal for heavy-duty cleaning applications.",
+    "category": "Chemicals",
+    "price": 55.0,
+    "discountPercentage": 10.0,
+    "rating": 4.1,
+    "stock": 200,
+    "tags": ["cleaning", "solvent", "industrial"],
+    "brand": "ChemPro",
+    "sku": "CHE008",
+    "weight": 2.0,
+    "dimensions": {
+      "width": 10.0,
+      "height": 25.0,
+      "depth": 10.0
+    },
+    "warrantyInformation": "No warranty",
+    "shippingInformation": "Ships within 7 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Effective and reliable solvent.",
+        "date": "2024-05-19T09:30:00.000Z",
+        "reviewerName": "Henry Adams",
+        "reviewerEmail": "henry.adams@example.com"
+      }
+    ],
+    "returnPolicy": "30 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-19T09:30:00.000Z",
+      "updatedAt": "2024-05-19T09:30:00.000Z",
+      "barcode": "8234567890123",
+      "qrCode": "https://example.com/qrcode/CHE008"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=8",
+    "images": [
+      "https://picsum.photos/300/300?random=81",
+      "https://picsum.photos/300/300?random=82",
+      "https://picsum.photos/300/300?random=83"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "Industrial Chemical Suppliers",
+      "contactNumber": "+91-9876123450",
+      "email": "contact@industrialchemicals.com",
+      "address": "99 Industry Park, Chemical City, IN"
+    }
+  },
+  {
+    "id": 9,
+    "title": "4K Ultra HD Monitor",
+    "slug": "4k-ultra-hd-monitor",
+    "description": "Crystal clear 4K monitor designed for professionals and gamers.",
+    "category": "Computer Products",
+    "price": 350.0,
+    "discountPercentage": 8.0,
+    "rating": 4.8,
+    "stock": 35,
+    "tags": ["monitor", "4K", "computer"],
+    "brand": "TechVision",
+    "sku": "COM009",
+    "weight": 5.0,
+    "dimensions": {
+      "width": 60.0,
+      "height": 35.0,
+      "depth": 10.0
+    },
+    "warrantyInformation": "2 years warranty",
+    "shippingInformation": "Ships within 3 business days",
+    "availabilityStatus": "Limited Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Stunning visuals and performance.",
+        "date": "2024-05-18T16:00:00.000Z",
+        "reviewerName": "Irene Collins",
+        "reviewerEmail": "irene.collins@example.com"
+      }
+    ],
+    "returnPolicy": "60 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-18T16:00:00.000Z",
+      "updatedAt": "2024-05-18T16:00:00.000Z",
+      "barcode": "9234567890123",
+      "qrCode": "https://example.com/qrcode/COM009"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=9",
+    "images": [
+      "https://picsum.photos/300/300?random=91",
+      "https://picsum.photos/300/300?random=92",
+      "https://picsum.photos/300/300?random=93"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "Tech Vision Distributors",
+      "contactNumber": "+91-9988001122",
+      "email": "sales@techvisiondist.com",
+      "address": "77 Silicon Avenue, Tech Park, IN"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Modern Wall Tile Set",
+    "slug": "modern-wall-tile-set",
+    "description": "Elegant wall tiles ideal for modern construction and decoration projects.",
+    "category": "Construction & Decoration",
+    "price": 65.0,
+    "discountPercentage": 6.0,
+    "rating": 4.3,
+    "stock": 90,
+    "tags": ["tiles", "wall", "decoration"],
+    "brand": "DecoTile",
+    "sku": "CON010",
+    "weight": 3.0,
+    "dimensions": {
+      "width": 25.0,
+      "height": 25.0,
+      "depth": 2.0
+    },
+    "warrantyInformation": "1 year warranty",
+    "shippingInformation": "Ships within 5 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Beautiful finish and quality.",
+        "date": "2024-05-17T13:00:00.000Z",
+        "reviewerName": "Jackie Moore",
+        "reviewerEmail": "jackie.moore@example.com"
+      }
+    ],
+    "returnPolicy": "30 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-17T13:00:00.000Z",
+      "updatedAt": "2024-05-17T13:00:00.000Z",
+      "barcode": "10234567890123",
+      "qrCode": "https://example.com/qrcode/CON010"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=10",
+    "images": [
+      "https://picsum.photos/300/300?random=101",
+      "https://picsum.photos/300/300?random=102",
+      "https://picsum.photos/300/300?random=103"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "DecoTile Suppliers",
+      "contactNumber": "+91-9009988776",
+      "email": "support@decotilesuppliers.com",
+      "address": "101 Decor Drive, Design City, IN"
+    }
+  },
+  {
+    "id": 11,
+    "title": "Smartphone with OLED Display",
+    "slug": "smartphone-with-oled-display",
+    "description": "Latest generation smartphone featuring an immersive OLED display and fast performance.",
+    "category": "Consumer Electronics",
+    "price": 699.99,
+    "discountPercentage": 5.0,
+    "rating": 4.7,
+    "stock": 45,
+    "tags": ["smartphone", "OLED", "electronics"],
+    "brand": "SmartX",
+    "sku": "CON011",
+    "weight": 0.4,
+    "dimensions": {
+      "width": 7.0,
+      "height": 14.0,
+      "depth": 0.7
+    },
+    "warrantyInformation": "1 year warranty",
+    "shippingInformation": "Ships within 2 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Amazing display and performance.",
+        "date": "2024-05-16T11:00:00.000Z",
+        "reviewerName": "Laura Brown",
+        "reviewerEmail": "laura.brown@example.com"
+      }
+    ],
+    "returnPolicy": "30 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-16T11:00:00.000Z",
+      "updatedAt": "2024-05-16T11:00:00.000Z",
+      "barcode": "11234567890123",
+      "qrCode": "https://example.com/qrcode/CON011"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=11",
+    "images": [
+      "https://picsum.photos/300/300?random=111",
+      "https://picsum.photos/300/300?random=112",
+      "https://picsum.photos/300/300?random=113"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "SmartX Electronics",
+      "contactNumber": "+91-9876123400",
+      "email": "service@smartxelectronics.com",
+      "address": "55 Digital Plaza, Electron City, IN"
+    }
+  },
+  {
+    "id": 12,
+    "title": "LED Circuit Board Kit",
+    "slug": "led-circuit-board-kit",
+    "description": "Comprehensive LED circuit board kit for DIY electronics enthusiasts.",
+    "category": "Electrical & Electronics",
+    "price": 35.0,
+    "discountPercentage": 7.0,
+    "rating": 4.2,
+    "stock": 100,
+    "tags": ["LED", "circuit", "kit"],
+    "brand": "ElectroKit",
+    "sku": "ELE012",
+    "weight": 0.5,
+    "dimensions": {
+      "width": 15.0,
+      "height": 10.0,
+      "depth": 2.0
+    },
+    "warrantyInformation": "6 months warranty",
+    "shippingInformation": "Ships within 3 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Great kit for learning electronics.",
+        "date": "2024-05-15T10:20:00.000Z",
+        "reviewerName": "Mark Wilson",
+        "reviewerEmail": "mark.wilson@example.com"
+      }
+    ],
+    "returnPolicy": "30 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-15T10:20:00.000Z",
+      "updatedAt": "2024-05-15T10:20:00.000Z",
+      "barcode": "12234567890123",
+      "qrCode": "https://example.com/qrcode/ELE012"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=12",
+    "images": [
+      "https://picsum.photos/300/300?random=121",
+      "https://picsum.photos/300/300?random=122",
+      "https://picsum.photos/300/300?random=123"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "ElectroKit Supplies",
+      "contactNumber": "+91-9123004455",
+      "email": "support@electrokitsupplies.com",
+      "address": "66 Circuit Road, Tech Valley, IN"
+    }
+  },
+  {
+    "id": 13,
+    "title": "Capacitor and Resistor Assortment",
+    "slug": "capacitor-and-resistor-assortment",
+    "description": "Wide assortment of capacitors and resistors for all your electronic projects.",
+    "category": "Electronics Components",
+    "price": 15.0,
+    "discountPercentage": 5.0,
+    "rating": 4.0,
+    "stock": 300,
+    "tags": ["capacitor", "resistor", "electronics"],
+    "brand": "CompuParts",
+    "sku": "ELE013",
+    "weight": 0.2,
+    "dimensions": {
+      "width": 10.0,
+      "height": 8.0,
+      "depth": 1.0
+    },
+    "warrantyInformation": "No warranty",
+    "shippingInformation": "Ships within 2 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Very useful for prototyping.",
+        "date": "2024-05-14T09:00:00.000Z",
+        "reviewerName": "Nancy Reed",
+        "reviewerEmail": "nancy.reed@example.com"
+      }
+    ],
+    "returnPolicy": "30 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-14T09:00:00.000Z",
+      "updatedAt": "2024-05-14T09:00:00.000Z",
+      "barcode": "13234567890123",
+      "qrCode": "https://example.com/qrcode/ELE013"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=13",
+    "images": [
+      "https://picsum.photos/300/300?random=131",
+      "https://picsum.photos/300/300?random=132",
+      "https://picsum.photos/300/300?random=133"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "CompuParts Components",
+      "contactNumber": "+91-9988123456",
+      "email": "info@compupartscomponents.com",
+      "address": "88 Electronics Street, Component City, IN"
+    }
+  },
+  {
+    "id": 14,
+    "title": "Leather Wrist Watch",
+    "slug": "leather-wrist-watch",
+    "description": "Elegant leather wrist watch with precision engineering and classic design.",
+    "category": "Fashion Accessories & Footwear",
+    "price": 150.0,
+    "discountPercentage": 12.0,
+    "rating": 4.5,
+    "stock": 70,
+    "tags": ["watch", "leather", "fashion"],
+    "brand": "TimeElegance",
+    "sku": "FAS014",
+    "weight": 0.3,
+    "dimensions": {
+      "width": 5.0,
+      "height": 5.0,
+      "depth": 1.0
+    },
+    "warrantyInformation": "2 years warranty",
+    "shippingInformation": "Ships within 3 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Stylish and reliable.",
+        "date": "2024-05-13T14:30:00.000Z",
+        "reviewerName": "Olivia Perez",
+        "reviewerEmail": "olivia.perez@example.com"
+      }
+    ],
+    "returnPolicy": "30 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-13T14:30:00.000Z",
+      "updatedAt": "2024-05-13T14:30:00.000Z",
+      "barcode": "14234567890123",
+      "qrCode": "https://example.com/qrcode/FAS014"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=14",
+    "images": [
+      "https://picsum.photos/300/300?random=141",
+      "https://picsum.photos/300/300?random=142",
+      "https://picsum.photos/300/300?random=143"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "Time Elegance Suppliers",
+      "contactNumber": "+91-9002233445",
+      "email": "sales@timeelegancesuppliers.com",
+      "address": "101 Watchmaker Lane, Fashion Hub, IN"
+    }
+  },
+  {
+    "id": 15,
+    "title": "Silk Evening Gown",
+    "slug": "silk-evening-gown",
+    "description": "Luxurious silk evening gown with a modern cut and exquisite detailing.",
+    "category": "Fashion Apparel & Fabrics",
+    "price": 299.99,
+    "discountPercentage": 15.0,
+    "rating": 4.8,
+    "stock": 25,
+    "tags": ["gown", "silk", "fashion"],
+    "brand": "Elegance Couture",
+    "sku": "FAS015",
+    "weight": 0.7,
+    "dimensions": {
+      "width": 40.0,
+      "height": 120.0,
+      "depth": 5.0
+    },
+    "warrantyInformation": "No warranty",
+    "shippingInformation": "Ships within 4 business days",
+    "availabilityStatus": "Limited Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Absolutely stunning design.",
+        "date": "2024-05-12T15:00:00.000Z",
+        "reviewerName": "Sophia Martinez",
+        "reviewerEmail": "sophia.martinez@example.com"
+      }
+    ],
+    "returnPolicy": "15 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-12T15:00:00.000Z",
+      "updatedAt": "2024-05-12T15:00:00.000Z",
+      "barcode": "15234567890123",
+      "qrCode": "https://example.com/qrcode/FAS015"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=15",
+    "images": [
+      "https://picsum.photos/300/300?random=151",
+      "https://picsum.photos/300/300?random=152",
+      "https://picsum.photos/300/300?random=153"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "Elegance Couture Suppliers",
+      "contactNumber": "+91-9123445566",
+      "email": "contact@elegancecouturesuppliers.com",
+      "address": "77 Fashion Street, Couture City, IN"
+    }
+  },
+  {
+    "id": 16,
+    "title": "Gourmet Spice Assortment",
+    "slug": "gourmet-spice-assortment",
+    "description": "Premium assortment of gourmet spices for culinary excellence.",
+    "category": "Food Household & Pets",
+    "price": 39.99,
+    "discountPercentage": 8.0,
+    "rating": 4.6,
+    "stock": 100,
+    "tags": ["spice", "gourmet", "cooking"],
+    "brand": "Spice World",
+    "sku": "FHP016",
+    "weight": 0.5,
+    "dimensions": {
+      "width": 10.0,
+      "height": 15.0,
+      "depth": 10.0
+    },
+    "warrantyInformation": "No warranty",
+    "shippingInformation": "Ships within 3 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Flavorful and aromatic spices.",
+        "date": "2024-05-11T12:00:00.000Z",
+        "reviewerName": "Liam Scott",
+        "reviewerEmail": "liam.scott@example.com"
+      }
+    ],
+    "returnPolicy": "30 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-11T12:00:00.000Z",
+      "updatedAt": "2024-05-11T12:00:00.000Z",
+      "barcode": "16234567890123",
+      "qrCode": "https://example.com/qrcode/FHP016"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=16",
+    "images": [
+      "https://picsum.photos/300/300?random=161",
+      "https://picsum.photos/300/300?random=162",
+      "https://picsum.photos/300/300?random=163"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "Spice World Imports",
+      "contactNumber": "+91-9001123587",
+      "email": "orders@spiceworldimports.com",
+      "address": "12 Culinary Road, Flavor Town, IN"
+    }
+  },
+  {
+    "id": 17,
+    "title": "Modern Sofa Set",
+    "slug": "modern-sofa-set",
+    "description": "Comfortable and stylish sofa set perfect for modern living rooms.",
+    "category": "Furniture & Home Decor",
+    "price": 899.99,
+    "discountPercentage": 10.0,
+    "rating": 4.7,
+    "stock": 15,
+    "tags": ["sofa", "furniture", "home decor"],
+    "brand": "HomeStyle",
+    "sku": "FHD017",
+    "weight": 50.0,
+    "dimensions": {
+      "width": 200.0,
+      "height": 90.0,
+      "depth": 100.0
+    },
+    "warrantyInformation": "2 years warranty",
+    "shippingInformation": "Ships within 7 business days",
+    "availabilityStatus": "Limited Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Very comfortable and well designed.",
+        "date": "2024-05-10T10:30:00.000Z",
+        "reviewerName": "Michael Brown",
+        "reviewerEmail": "michael.brown@example.com"
+      }
+    ],
+    "returnPolicy": "60 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-10T10:30:00.000Z",
+      "updatedAt": "2024-05-10T10:30:00.000Z",
+      "barcode": "17234567890123",
+      "qrCode": "https://example.com/qrcode/FHD017"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=17",
+    "images": [
+      "https://picsum.photos/300/300?random=171",
+      "https://picsum.photos/300/300?random=172",
+      "https://picsum.photos/300/300?random=173"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "HomeStyle Furnishings",
+      "contactNumber": "+91-9988776650",
+      "email": "sales@homestylefurnishings.com",
+      "address": "200 Comfort Avenue, Home Town, IN"
+    }
+  },
+  {
+    "id": 18,
+    "title": "Custom Engraved Gift Box",
+    "slug": "custom-engraved-gift-box",
+    "description": "Premium quality gift box that can be custom engraved for any occasion.",
+    "category": "Gifts Toys & Premiums",
+    "price": 49.99,
+    "discountPercentage": 5.0,
+    "rating": 4.3,
+    "stock": 85,
+    "tags": ["gift", "engraved", "premium"],
+    "brand": "Giftique",
+    "sku": "GTP018",
+    "weight": 0.8,
+    "dimensions": {
+      "width": 25.0,
+      "height": 15.0,
+      "depth": 10.0
+    },
+    "warrantyInformation": "No warranty",
+    "shippingInformation": "Ships within 3 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Beautifully crafted gift box.",
+        "date": "2024-05-09T11:00:00.000Z",
+        "reviewerName": "Rachel Green",
+        "reviewerEmail": "rachel.green@example.com"
+      }
+    ],
+    "returnPolicy": "30 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-09T11:00:00.000Z",
+      "updatedAt": "2024-05-09T11:00:00.000Z",
+      "barcode": "18234567890123",
+      "qrCode": "https://example.com/qrcode/GTP018"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=18",
+    "images": [
+      "https://picsum.photos/300/300?random=181",
+      "https://picsum.photos/300/300?random=182",
+      "https://picsum.photos/300/300?random=183"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "Giftique Packaging",
+      "contactNumber": "+91-9123456789",
+      "email": "orders@giftique.com",
+      "address": "33 Present Blvd, Gift City, IN"
+    }
+  },
+  {
+    "id": 19,
+    "title": "Advanced Pain Relief Medicine",
+    "slug": "advanced-pain-relief-medicine",
+    "description": "Effective over-the-counter medicine for fast pain relief.",
+    "category": "Health & Medicine",
+    "price": 29.99,
+    "discountPercentage": 4.0,
+    "rating": 4.2,
+    "stock": 120,
+    "tags": ["medicine", "pain relief", "health"],
+    "brand": "MediCure",
+    "sku": "HM019",
+    "weight": 0.2,
+    "dimensions": {
+      "width": 8.0,
+      "height": 12.0,
+      "depth": 2.0
+    },
+    "warrantyInformation": "N/A",
+    "shippingInformation": "Ships within 2 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Works quickly and effectively.",
+        "date": "2024-05-08T09:30:00.000Z",
+        "reviewerName": "Samuel Turner",
+        "reviewerEmail": "samuel.turner@example.com"
+      }
+    ],
+    "returnPolicy": "15 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-08T09:30:00.000Z",
+      "updatedAt": "2024-05-08T09:30:00.000Z",
+      "barcode": "19234567890123",
+      "qrCode": "https://example.com/qrcode/HM019"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=19",
+    "images": [
+      "https://picsum.photos/300/300?random=191",
+      "https://picsum.photos/300/300?random=192",
+      "https://picsum.photos/300/300?random=193"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "MediCure Pharmaceuticals",
+      "contactNumber": "+91-9001122333",
+      "email": "info@medicurepharma.com",
+      "address": "55 Health Street, Medical City, IN"
+    }
+  },
+  {
+    "id": 20,
+    "title": "Organic Skincare Set",
+    "slug": "organic-skincare-set",
+    "description": "Complete organic skincare set for a natural and radiant look.",
+    "category": "Health & Personal Care",
+    "price": 85.0,
+    "discountPercentage": 10.0,
+    "rating": 4.6,
+    "stock": 60,
+    "tags": ["skincare", "organic", "personal care"],
+    "brand": "PureGlow",
+    "sku": "HPC020",
+    "weight": 0.9,
+    "dimensions": {
+      "width": 20.0,
+      "height": 30.0,
+      "depth": 8.0
+    },
+    "warrantyInformation": "90 days money-back guarantee",
+    "shippingInformation": "Ships within 3 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "My skin has never felt better!",
+        "date": "2024-05-07T14:00:00.000Z",
+        "reviewerName": "Isabella Young",
+        "reviewerEmail": "isabella.young@example.com"
+      }
+    ],
+    "returnPolicy": "30 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-07T14:00:00.000Z",
+      "updatedAt": "2024-05-07T14:00:00.000Z",
+      "barcode": "20234567890123",
+      "qrCode": "https://example.com/qrcode/HPC020"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=20",
+    "images": [
+      "https://picsum.photos/300/300?random=201",
+      "https://picsum.photos/300/300?random=202",
+      "https://picsum.photos/300/300?random=203"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "PureGlow Naturals",
+      "contactNumber": "+91-9876543200",
+      "email": "support@pureglownaturals.com",
+      "address": "33 Beauty Blvd, Wellness City, IN"
+    }
+  },
+  {
+    "id": 21,
+    "title": "Energy Efficient Refrigerator",
+    "slug": "energy-efficient-refrigerator",
+    "description": "Top-of-the-line energy efficient refrigerator with modern features.",
+    "category": "Home Appliances",
+    "price": 1200.0,
+    "discountPercentage": 8.0,
+    "rating": 4.8,
+    "stock": 10,
+    "tags": ["refrigerator", "home appliance", "energy efficient"],
+    "brand": "CoolHome",
+    "sku": "HA021",
+    "weight": 80.0,
+    "dimensions": {
+      "width": 70.0,
+      "height": 180.0,
+      "depth": 65.0
+    },
+    "warrantyInformation": "3 years warranty",
+    "shippingInformation": "Ships within 7 business days",
+    "availabilityStatus": "Limited Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Very efficient and quiet.",
+        "date": "2024-05-06T10:00:00.000Z",
+        "reviewerName": "Kevin Hall",
+        "reviewerEmail": "kevin.hall@example.com"
+      }
+    ],
+    "returnPolicy": "60 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-06T10:00:00.000Z",
+      "updatedAt": "2024-05-06T10:00:00.000Z",
+      "barcode": "21234567890123",
+      "qrCode": "https://example.com/qrcode/HA021"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=21",
+    "images": [
+      "https://picsum.photos/300/300?random=211",
+      "https://picsum.photos/300/300?random=212",
+      "https://picsum.photos/300/300?random=213"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "CoolHome Appliances",
+      "contactNumber": "+91-9001122445",
+      "email": "service@coolhomeappliances.com",
+      "address": "101 Chill Street, Appliance City, IN"
+    }
+  },
+  {
+    "id": 22,
+    "title": "Hydraulic Press Machine",
+    "slug": "hydraulic-press-machine",
+    "description": "Robust hydraulic press machine ideal for industrial applications.",
+    "category": "Industrial Equipment & Components",
+    "price": 5000.0,
+    "discountPercentage": 12.0,
+    "rating": 4.5,
+    "stock": 5,
+    "tags": ["hydraulic", "industrial", "machine"],
+    "brand": "IndusMax",
+    "sku": "IEC022",
+    "weight": 1200.0,
+    "dimensions": {
+      "width": 150.0,
+      "height": 200.0,
+      "depth": 100.0
+    },
+    "warrantyInformation": "2 years warranty",
+    "shippingInformation": "Ships within 10 business days",
+    "availabilityStatus": "Limited Stock",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Solid performance for heavy-duty tasks.",
+        "date": "2024-05-05T11:00:00.000Z",
+        "reviewerName": "Olivia Reed",
+        "reviewerEmail": "olivia.reed@example.com"
+      }
+    ],
+    "returnPolicy": "90 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-05T11:00:00.000Z",
+      "updatedAt": "2024-05-05T11:00:00.000Z",
+      "barcode": "22234567890123",
+      "qrCode": "https://example.com/qrcode/IEC022"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=22",
+    "images": [
+      "https://picsum.photos/300/300?random=221",
+      "https://picsum.photos/300/300?random=222",
+      "https://picsum.photos/300/300?random=223"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "IndusMax Machinery",
+      "contactNumber": "+91-9876001122",
+      "email": "inquiries@indusmaxmachinery.com",
+      "address": "55 Industrial Zone, Machinery City, IN"
+    }
+  },
+  {
+    "id": 23,
+    "title": "High-Performance Drill Set",
+    "slug": "high-performance-drill-set",
+    "description": "Complete drill set designed for both professionals and DIY enthusiasts.",
+    "category": "Industrial Supplies",
+    "price": 150.0,
+    "discountPercentage": 9.0,
+    "rating": 4.3,
+    "stock": 80,
+    "tags": ["drill", "tool", "industrial"],
+    "brand": "DrillMaster",
+    "sku": "INS023",
+    "weight": 3.0,
+    "dimensions": {
+      "width": 20.0,
+      "height": 25.0,
+      "depth": 8.0
+    },
+    "warrantyInformation": "1 year warranty",
+    "shippingInformation": "Ships within 3 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Reliable and sturdy.",
+        "date": "2024-05-04T09:00:00.000Z",
+        "reviewerName": "Ethan Clark",
+        "reviewerEmail": "ethan.clark@example.com"
+      }
+    ],
+    "returnPolicy": "30 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-04T09:00:00.000Z",
+      "updatedAt": "2024-05-04T09:00:00.000Z",
+      "barcode": "23234567890123",
+      "qrCode": "https://example.com/qrcode/INS023"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=23",
+    "images": [
+      "https://picsum.photos/300/300?random=231",
+      "https://picsum.photos/300/300?random=232",
+      "https://picsum.photos/300/300?random=233"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "DrillMaster Tools",
+      "contactNumber": "+91-9123556677",
+      "email": "support@drillmastertools.com",
+      "address": "12 Tool Street, Industrial Park, IN"
+    }
+  },
+  {
+    "id": 24,
+    "title": "Digital Multimeter",
+    "slug": "digital-multimeter",
+    "description": "Precision digital multimeter for accurate electrical measurements.",
+    "category": "Instruments & Meters",
+    "price": 60.0,
+    "discountPercentage": 6.5,
+    "rating": 4.4,
+    "stock": 90,
+    "tags": ["multimeter", "instrument", "electrical"],
+    "brand": "MeterPro",
+    "sku": "INS024",
+    "weight": 0.4,
+    "dimensions": {
+      "width": 12.0,
+      "height": 7.0,
+      "depth": 2.0
+    },
+    "warrantyInformation": "1 year warranty",
+    "shippingInformation": "Ships within 2 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Very accurate readings.",
+        "date": "2024-05-03T10:15:00.000Z",
+        "reviewerName": "Zoe Fisher",
+        "reviewerEmail": "zoe.fisher@example.com"
+      }
+    ],
+    "returnPolicy": "30 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-03T10:15:00.000Z",
+      "updatedAt": "2024-05-03T10:15:00.000Z",
+      "barcode": "24234567890123",
+      "qrCode": "https://example.com/qrcode/INS024"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=24",
+    "images": [
+      "https://picsum.photos/300/300?random=241",
+      "https://picsum.photos/300/300?random=242",
+      "https://picsum.photos/300/300?random=243"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "MeterPro Instruments",
+      "contactNumber": "+91-9876543300",
+      "email": "info@meterproinstruments.com",
+      "address": "44 Measurement Road, Tech City, IN"
+    }
+  },
+  {
+    "id": 25,
+    "title": "Eco-Friendly Reusable Tote Bag",
+    "slug": "eco-friendly-reusable-tote-bag",
+    "description": "Durable and stylish reusable tote bag made from eco-friendly materials.",
+    "category": "Light Industry & Daily Use",
+    "price": 12.99,
+    "discountPercentage": 5.0,
+    "rating": 4.2,
+    "stock": 250,
+    "tags": ["tote", "eco-friendly", "bag"],
+    "brand": "EcoBag",
+    "sku": "LID025",
+    "weight": 0.2,
+    "dimensions": {
+      "width": 35.0,
+      "height": 40.0,
+      "depth": 5.0
+    },
+    "warrantyInformation": "No warranty",
+    "shippingInformation": "Ships within 2 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Very practical and eco-friendly.",
+        "date": "2024-05-02T12:30:00.000Z",
+        "reviewerName": "Mia Lopez",
+        "reviewerEmail": "mia.lopez@example.com"
+      }
+    ],
+    "returnPolicy": "15 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-02T12:30:00.000Z",
+      "updatedAt": "2024-05-02T12:30:00.000Z",
+      "barcode": "25234567890123",
+      "qrCode": "https://example.com/qrcode/LID025"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=25",
+    "images": [
+      "https://picsum.photos/300/300?random=251",
+      "https://picsum.photos/300/300?random=252",
+      "https://picsum.photos/300/300?random=253"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "EcoBag Supplies",
+      "contactNumber": "+91-9001122777",
+      "email": "orders@ecobagsupplies.com",
+      "address": "12 Green Street, Eco Town, IN"
+    }
+  },
+  {
+    "id": 26,
+    "title": "High-Powered LED Flood Light",
+    "slug": "high-powered-led-flood-light",
+    "description": "Energy-saving LED flood light perfect for outdoor security and illumination.",
+    "category": "Lights & Lighting",
+    "price": 75.0,
+    "discountPercentage": 7.0,
+    "rating": 4.3,
+    "stock": 60,
+    "tags": ["LED", "flood light", "lighting"],
+    "brand": "BrightLux",
+    "sku": "LIG026",
+    "weight": 2.0,
+    "dimensions": {
+      "width": 30.0,
+      "height": 20.0,
+      "depth": 15.0
+    },
+    "warrantyInformation": "1 year warranty",
+    "shippingInformation": "Ships within 3 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Bright and efficient.",
+        "date": "2024-05-01T10:00:00.000Z",
+        "reviewerName": "Ethan Rivera",
+        "reviewerEmail": "ethan.rivera@example.com"
+      }
+    ],
+    "returnPolicy": "30 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-01T10:00:00.000Z",
+      "updatedAt": "2024-05-01T10:00:00.000Z",
+      "barcode": "26234567890123",
+      "qrCode": "https://example.com/qrcode/LIG026"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=26",
+    "images": [
+      "https://picsum.photos/300/300?random=261",
+      "https://picsum.photos/300/300?random=262",
+      "https://picsum.photos/300/300?random=263"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "BrightLux Lighting",
+      "contactNumber": "+91-9123456711",
+      "email": "support@brightluxlighting.com",
+      "address": "44 Light Avenue, Illumination City, IN"
+    }
+  },
+  {
+    "id": 27,
+    "title": "Industrial CNC Milling Machine",
+    "slug": "industrial-cnc-milling-machine",
+    "description": "Precision CNC milling machine for manufacturing and processing applications.",
+    "category": "Machinery & Equipment",
+    "price": 15000.0,
+    "discountPercentage": 10.0,
+    "rating": 4.6,
+    "stock": 3,
+    "tags": ["CNC", "machinery", "equipment"],
+    "brand": "Machinex",
+    "sku": "MAC027",
+    "weight": 2000.0,
+    "dimensions": {
+      "width": 250.0,
+      "height": 300.0,
+      "depth": 200.0
+    },
+    "warrantyInformation": "3 years warranty",
+    "shippingInformation": "Ships within 14 business days",
+    "availabilityStatus": "Limited Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Exceptional precision and durability.",
+        "date": "2024-04-30T15:00:00.000Z",
+        "reviewerName": "Victor Holmes",
+        "reviewerEmail": "victor.holmes@example.com"
+      }
+    ],
+    "returnPolicy": "90 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-04-30T15:00:00.000Z",
+      "updatedAt": "2024-04-30T15:00:00.000Z",
+      "barcode": "27234567890123",
+      "qrCode": "https://example.com/qrcode/MAC027"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=27",
+    "images": [
+      "https://picsum.photos/300/300?random=271",
+      "https://picsum.photos/300/300?random=272",
+      "https://picsum.photos/300/300?random=273"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "Machinex Industrial",
+      "contactNumber": "+91-9876002233",
+      "email": "info@machinexindustrial.com",
+      "address": "200 Manufacturing Way, Machine City, IN"
+    }
+  },
+  {
+    "id": 28,
+    "title": "Automatic Packaging Machine",
+    "slug": "automatic-packaging-machine",
+    "description": "Efficient packaging machine designed for high volume manufacturing lines.",
+    "category": "Manufacturing & Processing Machinery",
+    "price": 22000.0,
+    "discountPercentage": 11.0,
+    "rating": 4.7,
+    "stock": 4,
+    "tags": ["packaging", "machine", "manufacturing"],
+    "brand": "PackPro",
+    "sku": "MPM028",
+    "weight": 1800.0,
+    "dimensions": {
+      "width": 240.0,
+      "height": 280.0,
+      "depth": 180.0
+    },
+    "warrantyInformation": "2 years warranty",
+    "shippingInformation": "Ships within 10 business days",
+    "availabilityStatus": "Limited Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Streamlined our production process.",
+        "date": "2024-04-29T11:00:00.000Z",
+        "reviewerName": "Wendy Price",
+        "reviewerEmail": "wendy.price@example.com"
+      }
+    ],
+    "returnPolicy": "60 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-04-29T11:00:00.000Z",
+      "updatedAt": "2024-04-29T11:00:00.000Z",
+      "barcode": "28234567890123",
+      "qrCode": "https://example.com/qrcode/MPM028"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=28",
+    "images": [
+      "https://picsum.photos/300/300?random=281",
+      "https://picsum.photos/300/300?random=282",
+      "https://picsum.photos/300/300?random=283"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "PackPro Machines",
+      "contactNumber": "+91-9123447788",
+      "email": "service@packpromachines.com",
+      "address": "88 Pack Lane, Production City, IN"
+    }
+  },
+  {
+    "id": 29,
+    "title": "Copper Wire Spool",
+    "slug": "copper-wire-spool",
+    "description": "High-quality copper wire spool ideal for industrial and electrical applications.",
+    "category": "Metallurgy, Mineral & Energy",
+    "price": 350.0,
+    "discountPercentage": 6.0,
+    "rating": 4.4,
+    "stock": 110,
+    "tags": ["copper", "wire", "industrial"],
+    "brand": "MetalWorks",
+    "sku": "MME029",
+    "weight": 10.0,
+    "dimensions": {
+      "width": 40.0,
+      "height": 40.0,
+      "depth": 15.0
+    },
+    "warrantyInformation": "No warranty",
+    "shippingInformation": "Ships within 4 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Great quality and conductivity.",
+        "date": "2024-04-28T13:00:00.000Z",
+        "reviewerName": "Olivia Brooks",
+        "reviewerEmail": "olivia.brooks@example.com"
+      }
+    ],
+    "returnPolicy": "30 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-04-28T13:00:00.000Z",
+      "updatedAt": "2024-04-28T13:00:00.000Z",
+      "barcode": "29234567890123",
+      "qrCode": "https://example.com/qrcode/MME029"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=29",
+    "images": [
+      "https://picsum.photos/300/300?random=291",
+      "https://picsum.photos/300/300?random=292",
+      "https://picsum.photos/300/300?random=293"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "MetalWorks Industries",
+      "contactNumber": "+91-9876005566",
+      "email": "sales@metalworksindustries.com",
+      "address": "77 Alloy Avenue, Metal City, IN"
+    }
+  },
+  {
+    "id": 30,
+    "title": "Wireless In-Car Entertainment System",
+    "slug": "wireless-in-car-entertainment-system",
+    "description": "Advanced wireless entertainment system designed for modern vehicles.",
+    "category": "Mobile Electronics",
+    "price": 499.99,
+    "discountPercentage": 9.0,
+    "rating": 4.5,
+    "stock": 25,
+    "tags": ["in-car", "entertainment", "wireless"],
+    "brand": "DriveTech",
+    "sku": "MOB030",
+    "weight": 1.5,
+    "dimensions": {
+      "width": 15.0,
+      "height": 10.0,
+      "depth": 4.0
+    },
+    "warrantyInformation": "1 year warranty",
+    "shippingInformation": "Ships within 3 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Transforms the driving experience!",
+        "date": "2024-04-27T12:00:00.000Z",
+        "reviewerName": "Daniel Evans",
+        "reviewerEmail": "daniel.evans@example.com"
+      }
+    ],
+    "returnPolicy": "30 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-04-27T12:00:00.000Z",
+      "updatedAt": "2024-04-27T12:00:00.000Z",
+      "barcode": "30234567890123",
+      "qrCode": "https://example.com/qrcode/MOB030"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=30",
+    "images": [
+      "https://picsum.photos/300/300?random=301",
+      "https://picsum.photos/300/300?random=302",
+      "https://picsum.photos/300/300?random=303"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "DriveTech Electronics",
+      "contactNumber": "+91-9123556688",
+      "email": "support@drivetechelectronics.com",
+      "address": "99 Auto Drive, Mobility City, IN"
+    }
+  },
+  {
+    "id": 31,
+    "title": "Quick Freezer",
+    "slug": "quick-freezer",
+    "description": "High-performance quick freezer designed for rapid temperature reduction in industrial processes.",
+    "category": "Industrial Equipment & Components",
+    "price": 1299.99,
+    "discountPercentage": 8.5,
+    "rating": 4.2,
+    "stock": 15,
+    "tags": ["freezer", "quick freeze", "industrial"],
+    "brand": "IndusChill",
+    "sku": "IND031",
+    "weight": 75.0,
+    "dimensions": {
+      "width": 100.0,
+      "height": 180.0,
+      "depth": 90.0
+    },
+    "warrantyInformation": "2 years warranty",
+    "shippingInformation": "Ships within 5 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Efficient cooling with rapid freezing capabilities.",
+        "date": "2024-04-27T12:00:00.000Z",
+        "reviewerName": "Alex Johnson",
+        "reviewerEmail": "alex.johnson@example.com"
+      }
+    ],
+    "returnPolicy": "15 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 100, "price_per_unit": 1250.0 },
+      { "min_quantity": 200, "price_per_unit": 1200.0 }
+    ],
+    "meta": {
+      "createdAt": "2024-04-27T12:00:00.000Z",
+      "updatedAt": "2024-04-27T12:00:00.000Z",
+      "barcode": "31000012345678",
+      "qrCode": "https://example.com/qrcode/IND031"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=31",
+    "images": [
+      "https://picsum.photos/300/300?random=311",
+      "https://picsum.photos/300/300?random=312",
+      "https://picsum.photos/300/300?random=313"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "IndusChill Supplies",
+      "contactNumber": "+91-9876543210",
+      "email": "support@induschill.com",
+      "address": "101 Industrial Park, Sector 15, IN"
+    }
+  },
+  {
+    "id": 32,
+    "title": "CNC Machining Part",
+    "slug": "cnc-machining-part",
+    "description": "Precision-engineered CNC machining part suitable for high-tolerance industrial applications.",
+    "category": "Industrial Equipment & Components",
+    "price": 549.5,
+    "discountPercentage": 7.0,
+    "rating": 4.4,
+    "stock": 40,
+    "tags": ["CNC", "machining", "precision", "industrial"],
+    "brand": "TechMach",
+    "sku": "IND032",
+    "weight": 12.0,
+    "dimensions": {
+      "width": 25.0,
+      "height": 15.0,
+      "depth": 10.0
+    },
+    "warrantyInformation": "1 year warranty",
+    "shippingInformation": "Ships within 4 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Exceptional quality and precision.",
+        "date": "2024-04-27T12:00:00.000Z",
+        "reviewerName": "Maria Lopez",
+        "reviewerEmail": "maria.lopez@example.com"
+      }
+    ],
+    "returnPolicy": "15 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 50, "price_per_unit": 540.0 },
+      { "min_quantity": 150, "price_per_unit": 530.0 }
+    ],
+    "meta": {
+      "createdAt": "2024-04-27T12:00:00.000Z",
+      "updatedAt": "2024-04-27T12:00:00.000Z",
+      "barcode": "32000012345679",
+      "qrCode": "https://example.com/qrcode/IND032"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=32",
+    "images": [
+      "https://picsum.photos/300/300?random=321",
+      "https://picsum.photos/300/300?random=322",
+      "https://picsum.photos/300/300?random=323"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "TechMach Industries",
+      "contactNumber": "+91-9123456789",
+      "email": "info@techmach.com",
+      "address": "202 Industrial Road, Tech Park, IN"
+    }
+  },
+  {
+    "id": 33,
+    "title": "Hydraulic Pump",
+    "slug": "hydraulic-pump",
+    "description": "Robust hydraulic pump engineered for high performance in industrial systems.",
+    "category": "Industrial Equipment & Components",
+    "price": 899.0,
+    "discountPercentage": 6.5,
+    "rating": 4.3,
+    "stock": 30,
+    "tags": ["hydraulic", "pump", "industrial", "fluid power"],
+    "brand": "HydroMax",
+    "sku": "IND033",
+    "weight": 50.0,
+    "dimensions": {
+      "width": 40.0,
+      "height": 60.0,
+      "depth": 35.0
+    },
+    "warrantyInformation": "2 years warranty",
+    "shippingInformation": "Ships within 5 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Reliable and efficient pump performance.",
+        "date": "2024-04-27T12:00:00.000Z",
+        "reviewerName": "Samuel Green",
+        "reviewerEmail": "samuel.green@example.com"
+      }
+    ],
+    "returnPolicy": "15 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 30, "price_per_unit": 880.0 },
+      { "min_quantity": 70, "price_per_unit": 860.0 }
+    ],
+    "meta": {
+      "createdAt": "2024-04-27T12:00:00.000Z",
+      "updatedAt": "2024-04-27T12:00:00.000Z",
+      "barcode": "33000012345680",
+      "qrCode": "https://example.com/qrcode/IND033"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=33",
+    "images": [
+      "https://picsum.photos/300/300?random=331",
+      "https://picsum.photos/300/300?random=332",
+      "https://picsum.photos/300/300?random=333"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "HydroMax Solutions",
+      "contactNumber": "+91-9988776655",
+      "email": "service@hydromax.com",
+      "address": "303 Hydraulic Way, Engine City, IN"
+    }
+  },
+  {
+    "id": 34,
+    "title": "Drilling Rig",
+    "slug": "drilling-rig",
+    "description": "Heavy-duty drilling rig built for deep excavation and efficient drilling operations.",
+    "category": "Industrial Equipment & Components",
+    "price": 15999.99,
+    "discountPercentage": 10.0,
+    "rating": 4.1,
+    "stock": 5,
+    "tags": ["drilling", "rig", "heavy-duty", "excavation"],
+    "brand": "DrillMaster",
+    "sku": "IND034",
+    "weight": 3500.0,
+    "dimensions": {
+      "width": 250.0,
+      "height": 350.0,
+      "depth": 220.0
+    },
+    "warrantyInformation": "3 years warranty",
+    "shippingInformation": "Ships within 7 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Excellent rig with outstanding performance.",
+        "date": "2024-04-27T12:00:00.000Z",
+        "reviewerName": "Linda Perez",
+        "reviewerEmail": "linda.perez@example.com"
+      }
+    ],
+    "returnPolicy": "15 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 2, "price_per_unit": 15800.0 },
+      { "min_quantity": 5, "price_per_unit": 15650.0 }
+    ],
+    "meta": {
+      "createdAt": "2024-04-27T12:00:00.000Z",
+      "updatedAt": "2024-04-27T12:00:00.000Z",
+      "barcode": "34000012345681",
+      "qrCode": "https://example.com/qrcode/IND034"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=34",
+    "images": [
+      "https://picsum.photos/300/300?random=341",
+      "https://picsum.photos/300/300?random=342",
+      "https://picsum.photos/300/300?random=343"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "DrillMaster Equipment",
+      "contactNumber": "+91-9123001122",
+      "email": "sales@drillmaster.com",
+      "address": "404 Drilling Lane, Industrial Zone, IN"
+    }
+  },
+  {
+    "id": 35,
+    "title": "Centrifugal Pump",
+    "slug": "centrifugal-pump",
+    "description": "Efficient centrifugal pump designed for continuous fluid transfer in heavy industries.",
+    "category": "Industrial Equipment & Components",
+    "price": 749.75,
+    "discountPercentage": 7.5,
+    "rating": 4.3,
+    "stock": 22,
+    "tags": ["centrifugal", "pump", "fluid transfer"],
+    "brand": "FlowTech",
+    "sku": "IND035",
+    "weight": 60.0,
+    "dimensions": {
+      "width": 45.0,
+      "height": 55.0,
+      "depth": 40.0
+    },
+    "warrantyInformation": "2 years warranty",
+    "shippingInformation": "Ships within 5 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Highly efficient with a robust design.",
+        "date": "2024-04-27T12:00:00.000Z",
+        "reviewerName": "Robert King",
+        "reviewerEmail": "robert.king@example.com"
+      }
+    ],
+    "returnPolicy": "15 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 20, "price_per_unit": 740.0 },
+      { "min_quantity": 50, "price_per_unit": 730.0 }
+    ],
+    "meta": {
+      "createdAt": "2024-04-27T12:00:00.000Z",
+      "updatedAt": "2024-04-27T12:00:00.000Z",
+      "barcode": "35000012345682",
+      "qrCode": "https://example.com/qrcode/IND035"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=35",
+    "images": [
+      "https://picsum.photos/300/300?random=351",
+      "https://picsum.photos/300/300?random=352",
+      "https://picsum.photos/300/300?random=353"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "FlowTech Industries",
+      "contactNumber": "+91-9001122334",
+      "email": "contact@flowtech.com",
+      "address": "505 Pump Avenue, Fluid City, IN"
+    }
+  },
+  {
+    "id": 36,
+    "title": "Valve",
+    "slug": "valve",
+    "description": "Durable and reliable industrial valve suitable for various control applications.",
+    "category": "Industrial Equipment & Components",
+    "price": 299.99,
+    "discountPercentage": 5.0,
+    "rating": 4.0,
+    "stock": 60,
+    "tags": ["valve", "control", "industrial"],
+    "brand": "ValvePro",
+    "sku": "IND036",
+    "weight": 8.0,
+    "dimensions": {
+      "width": 10.0,
+      "height": 20.0,
+      "depth": 10.0
+    },
+    "warrantyInformation": "1 year warranty",
+    "shippingInformation": "Ships within 3 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Solid build and reliable performance.",
+        "date": "2024-04-27T12:00:00.000Z",
+        "reviewerName": "Nina Patel",
+        "reviewerEmail": "nina.patel@example.com"
+      }
+    ],
+    "returnPolicy": "15 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 100, "price_per_unit": 290.0 },
+      { "min_quantity": 250, "price_per_unit": 280.0 }
+    ],
+    "meta": {
+      "createdAt": "2024-04-27T12:00:00.000Z",
+      "updatedAt": "2024-04-27T12:00:00.000Z",
+      "barcode": "36000012345683",
+      "qrCode": "https://example.com/qrcode/IND036"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=36",
+    "images": [
+      "https://picsum.photos/300/300?random=361",
+      "https://picsum.photos/300/300?random=362",
+      "https://picsum.photos/300/300?random=363"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "ValvePro Components",
+      "contactNumber": "+91-9876001234",
+      "email": "sales@valvepro.com",
+      "address": "606 Valve Street, Component City, IN"
+    }
+  },
+  {
+    "id": 37,
+    "title": "Engine",
+    "slug": "engine",
+    "description": "High-powered industrial engine built for durability and long-term performance in harsh conditions.",
+    "category": "Industrial Equipment & Components",
+    "price": 2199.99,
+    "discountPercentage": 9.0,
+    "rating": 4.5,
+    "stock": 12,
+    "tags": ["engine", "power", "industrial"],
+    "brand": "PowerCore",
+    "sku": "IND037",
+    "weight": 250.0,
+    "dimensions": {
+      "width": 150.0,
+      "height": 200.0,
+      "depth": 120.0
+    },
+    "warrantyInformation": "2 years warranty",
+    "shippingInformation": "Ships within 5 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Exceptional power and efficiency.",
+        "date": "2024-04-27T12:00:00.000Z",
+        "reviewerName": "Oliver Smith",
+        "reviewerEmail": "oliver.smith@example.com"
+      }
+    ],
+    "returnPolicy": "15 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 10, "price_per_unit": 2175.0 },
+      { "min_quantity": 20, "price_per_unit": 2150.0 }
+    ],
+    "meta": {
+      "createdAt": "2024-04-27T12:00:00.000Z",
+      "updatedAt": "2024-04-27T12:00:00.000Z",
+      "barcode": "37000012345684",
+      "qrCode": "https://example.com/qrcode/IND037"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=37",
+    "images": [
+      "https://picsum.photos/300/300?random=371",
+      "https://picsum.photos/300/300?random=372",
+      "https://picsum.photos/300/300?random=373"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "PowerCore Engines",
+      "contactNumber": "+91-9123987654",
+      "email": "support@powercoreengines.com",
+      "address": "707 Engine Drive, Motor City, IN"
+    }
+  },
+  {
+    "id": 38,
+    "title": "Exhaust Fan",
+    "slug": "exhaust-fan",
+    "description": "Industrial exhaust fan designed to provide efficient ventilation in large-scale facilities.",
+    "category": "Industrial Equipment & Components",
+    "price": 499.99,
+    "discountPercentage": 8.0,
+    "rating": 4.1,
+    "stock": 35,
+    "tags": ["exhaust", "fan", "ventilation", "industrial"],
+    "brand": "AirFlowPro",
+    "sku": "IND038",
+    "weight": 18.0,
+    "dimensions": {
+      "width": 60.0,
+      "height": 80.0,
+      "depth": 55.0
+    },
+    "warrantyInformation": "1 year warranty",
+    "shippingInformation": "Ships within 3 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Great performance for industrial ventilation.",
+        "date": "2024-04-27T12:00:00.000Z",
+        "reviewerName": "Emma Watson",
+        "reviewerEmail": "emma.watson@example.com"
+      }
+    ],
+    "returnPolicy": "15 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 40, "price_per_unit": 490.0 },
+      { "min_quantity": 80, "price_per_unit": 480.0 }
+    ],
+    "meta": {
+      "createdAt": "2024-04-27T12:00:00.000Z",
+      "updatedAt": "2024-04-27T12:00:00.000Z",
+      "barcode": "38000012345685",
+      "qrCode": "https://example.com/qrcode/IND038"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=38",
+    "images": [
+      "https://picsum.photos/300/300?random=381",
+      "https://picsum.photos/300/300?random=382",
+      "https://picsum.photos/300/300?random=383"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "AirFlowPro Systems",
+      "contactNumber": "+91-9876123450",
+      "email": "service@airflowpro.com",
+      "address": "808 Ventilation Blvd, Air City, IN"
+    }
+  }
+]
