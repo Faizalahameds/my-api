@@ -2156,5 +2156,62 @@
       "email": "service@airflowpro.com",
       "address": "808 Ventilation Blvd, Air City, IN"
     }
+  },
+  {
+    "id": 39,
+    "title": "Organic Wheat Flour",
+    "slug": "organic-wheat-flour",
+    "description": "High quality organic wheat flour perfect for baking and cooking.",
+    "category": "Agriculture & Food",
+    "price": 40,
+    "discountPercentage": 10.0,
+    "rating": 4.5,
+    "stock": 120,
+    "tags": ["organic", "wheat", "food"],
+    "brand": "Nature's Best",
+    "sku": "AGF002",
+    "weight": 1.0,
+    "dimensions": {
+      "width": 20.0,
+      "height": 10.0,
+      "depth": 15.0
+    },
+    "warrantyInformation": "No warranty",
+    "shippingInformation": "Ships within 5 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent quality flour!",
+        "date": "2024-05-23T08:56:21.618Z",
+        "reviewerName": "Alice Smith",
+        "reviewerEmail": "alice.smith@example.com"
+      }
+    ],
+    "returnPolicy": "30 days return policy",
+    "bulk_pricing": [
+      { "min_quantity": 5000, "price_per_unit": 0.14 },
+      { "min_quantity": 10000, "price_per_unit": 0.13 },
+      { "min_quantity": 50000, "price_per_unit": 0.12 }
+    ],
+    "meta": {
+      "createdAt": "2024-05-23T08:56:21.618Z",
+      "updatedAt": "2024-05-23T08:56:21.618Z",
+      "barcode": "1234567890123",
+      "qrCode": "https://example.com/qrcode/AGF001"
+    },
+    "thumbnail": "https://picsum.photos/300/300?random=1",
+    "images": [
+      "https://picsum.photos/300/300?random=11",
+      "https://picsum.photos/300/300?random=12",
+      "https://picsum.photos/300/300?random=13"
+    ],
+    "currency": "INR",
+    "supplier": {
+      "name": "jack Farms Supplies",
+      "contactNumber": "+91-9876543210",
+      "email": "contact@jackfarmssupplies.com",
+      "address": "123 Farm Lane, Agro City, IN"
+    }
   }
 ]
